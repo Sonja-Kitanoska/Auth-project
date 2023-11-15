@@ -24,3 +24,4 @@ To get started with the application:
 2. Start the backend server using: npm run dev
 
 This will enable you to interact with the project and experience the JWT-based user authentication and authorization in action.
+# Recipes
