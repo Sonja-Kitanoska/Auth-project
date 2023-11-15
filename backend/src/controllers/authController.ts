@@ -23,7 +23,7 @@ export const signup = async (req: Request, res: Response) => {
       httpOnly: false,
     });
     console.log(newUser);
-    console.log(req.body);
+
     res.status(201).json({
       message: 'User signed in successfully',
       success: true,
